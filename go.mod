@@ -1,3 +1,3 @@
-module github.com/cornfeedhobo/pflag
+module github.com/lc/pflag
 
-go 1.15
+go 1.17
