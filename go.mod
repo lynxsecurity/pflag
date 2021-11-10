@@ -1,3 +1,3 @@
-module github.com/lc/pflag
+module github.com/lynxsecurity/pflag
 
 go 1.17
